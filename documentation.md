@@ -87,7 +87,7 @@ Tap on the variable. A menu will appear, tap on 'as Text', and select 'Dictionar
 
 That's it! You're on your way to integrating TranslateKit into your Shortcut.
 
-### RoutineHub Badge
+## RoutineHub Badge
 
 If you'd like, you can include a "This Shortcut requires TranslateKit" download badge at the bottom of your RoutineHub page. Paste the markdown below at the bottom of your page on RoutineHub.
 
@@ -95,6 +95,6 @@ If you'd like, you can include a "This Shortcut requires TranslateKit" download 
 [![Requires TranslateKit](https://i.imgur.com/H8RJgxY.png)](https://routinehub.co/shortcut/2691)
 ```
 
-## Example
+### Example
 
 ![RoutineHub Badge](https://i.imgur.com/H8RJgxY.png)
