@@ -3,3 +3,6 @@ theme: minima
 header_pages:
   - index.md
   - documentation.md
+minima:
+  social_links:
+    - { platform: routinehub,  user_url: "https://routinehub.co/shortcut/2691" }
