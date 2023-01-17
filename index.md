@@ -6,7 +6,7 @@ Implementation into your Shortcut is simple, all translation, localization, and 
 
 It's a fast and lightweight. After first translating your shortcut on a users device, it's just as fast as any other localization. The difference is, you don't have to translate your shortcut, TranslateKit takes care of it all for you!
 
-To learn more about how to implement TranslateKit into your shortcut, check out the [resources](resources.md) page.
+To learn more about how to implement TranslateKit into your shortcut, check out the [documentation](documentation.md) page.
 
 ### How does it work?
 
