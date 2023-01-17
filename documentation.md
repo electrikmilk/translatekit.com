@@ -4,7 +4,7 @@ Last updated June 15, 2019
 
 ---
 
-First, make sure you've downloaded [TranslateKit](https://routinehub.co/Shortcut/2691) and added it to your Shortcuts library.
+First, make sure you've downloaded [TranslateKit](https://routinehub.co/shortcut/2691) and added it to your Shortcuts library.
 
 The first step, like with all dependencies, is to check to make sure the user of your Shortcut has TranslateKit added to their library.
 
