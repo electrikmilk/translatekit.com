@@ -67,7 +67,7 @@ Here is a complete reference of the keys and values you can use in the `Dictiona
 </tbody>
 </table>
 
-Then, after the `End If`, place another `Dictionary`, this time with the same keys, but a new key `text`. Set the type as a dictionary.</p>
+Then, after the `End If`, place another `Dictionary`, this time with the same keys, but a new key `text`. Set the type as a dictionary.
 
 ***NOTE:** Tap on the icon on the previous dictionary and press 'Add to this Shortcut' to duplicate the dictionary in your Shortcut.*
 
