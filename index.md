@@ -1,4 +1,6 @@
-### What is TranslateKit?
+## What is TranslateKit?
+
+### [Download on RoutineHub](https://routinehub.co/shortcut/2691)
 
 TranslateKit is an [iOS Shortcut](https://support.apple.com/guide/shortcuts/welcome/ios) that brings multilingual support to other Shortcuts via translation APIs built into the Shortcuts app.
 
@@ -8,7 +10,7 @@ It's a fast and lightweight. After first translating your shortcut on a users de
 
 To learn more about how to implement TranslateKit into your shortcut, see the [documentation](documentation.md).
 
-### How does it work?
+## How does it work?
 
 TranslateKit recieves a dictionary from your shortcut that it uses to identify your shortcut when storing and accessing translations for it.
 
